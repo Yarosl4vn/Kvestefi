@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Палитры приложения (светлая тема). Порядок: primary, on_primary,
+         primary_container, on_primary_container, secondary_container, on_secondary_container. -->
+
+    <color name="pal_violet_primary">#6750A4</color>
+    <color name="pal_violet_on_primary">#FFFFFF</color>
+    <color name="pal_violet_container">#E9DDFF</color>
+    <color name="pal_violet_on_container">#22005D</color>
+    <color name="pal_violet_secondary">#D2E8DE</color>
+    <color name="pal_violet_on_secondary">#0B1F18</color>
+
+    <color name="pal_emerald_primary">#2E6B4F</color>
+    <color name="pal_emerald_on_primary">#FFFFFF</color>
+    <color name="pal_emerald_container">#B8EED2</color>
+    <color name="pal_emerald_on_container">#00281A</color>
+    <color name="pal_emerald_secondary">#CBEBD8</color>
+    <color name="pal_emerald_on_secondary">#062A1C</color>
+
+    <color name="pal_ocean_primary">#1F5F8B</color>
+    <color name="pal_ocean_on_primary">#FFFFFF</color>
+    <color name="pal_ocean_container">#BFDDF7</color>
+    <color name="pal_ocean_on_container">#002F4A</color>
+    <color name="pal_ocean_secondary">#C3E2E8</color>
+    <color name="pal_ocean_on_secondary">#00272E</color>
+
+    <color name="pal_amber_primary">#7A5900</color>
+    <color name="pal_amber_on_primary">#FFFFFF</color>
+    <color name="pal_amber_container">#FFDF9E</color>
+    <color name="pal_amber_on_container">#271900</color>
+    <color name="pal_amber_secondary">#E8DFC8</color>
+    <color name="pal_amber_on_secondary">#221B04</color>
+
+    <color name="pal_rose_primary">#8E4A63</color>
+    <color name="pal_rose_on_primary">#FFFFFF</color>
+    <color name="pal_rose_container">#FFD9E4</color>
+    <color name="pal_rose_on_container">#3A0A1D</color>
+    <color name="pal_rose_secondary">#EFDEE3</color>
+    <color name="pal_rose_on_secondary">#2A1117</color>
+</resources>

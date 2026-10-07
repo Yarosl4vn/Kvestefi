@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Светлая тема. Токены в духе Material 3. Те же имена переопределяются в values-night. -->
+    <color name="bg">#FBF9FE</color>
+    <color name="bg_alt">#F5F2FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_container">#F3EFF7</color>
+    <color name="surface2">#F3EFF7</color>
+    <color name="surface3">#E9E4EF</color>
+    <color name="outline">#78747F</color>
+    <color name="outline_variant">#DCD7E3</color>
+    <color name="on_bg">#1C1B1F</color>
+    <color name="on_bg_variant">#4A454E</color>
+
+    <color name="primary">#6750A4</color>
+    <color name="primary_dim">#56428C</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#E9DDFF</color>
+    <color name="on_primary_container">#22005D</color>
+
+    <color name="secondary">#4F635A</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="secondary_container">#D2E8DE</color>
+    <color name="on_secondary_container">#0B1F18</color>
+
+    <color name="tertiary">#7D5260</color>
+    <color name="accent">#7A5900</color>
+    <color name="pink">#8E4A63</color>
+    <color name="success">#1F6B41</color>
+    <color name="danger">#B3261E</color>
+
+    <color name="option_bg">#FFFFFF</color>
+    <color name="option_border">#DCD7E3</color>
+    <color name="nav_bar">#F3EFF7</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

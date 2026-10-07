@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Квестефи</string>
+    <string name="nav_home">Главная</string>
+    <string name="nav_quests">Квесты</string>
+    <string name="nav_learn">Обучение</string>
+    <string name="nav_results">Результаты</string>
+    <string name="nav_badges">Бейджи</string>
+    <string name="share">Поделиться</string>
+    <string name="start_quest">Начать квест</string>
+    <string name="choose_subject">Выбери предмет</string>
+    <string name="history_title">История попыток</string>
+    <string name="progress_title">Прогресс</string>
+</resources>

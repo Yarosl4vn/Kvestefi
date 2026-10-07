@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Тёмная тема. Токены в духе Material 3: спокойные поверхности, мягкий акцент. -->
+    <color name="bg">#0F0F12</color>
+    <color name="bg_alt">#141419</color>
+    <color name="surface">#17171C</color>
+    <color name="surface_container">#1D1D23</color>
+    <color name="surface2">#1D1D23</color>
+    <color name="surface3">#26262E</color>
+    <color name="outline">#5A5661</color>
+    <color name="outline_variant">#2F2F37</color>
+    <color name="on_bg">#E6E1E5</color>
+    <color name="on_bg_variant">#A9A3AF</color>
+
+    <color name="primary">#CBBEFF</color>
+    <color name="primary_dim">#B9A8FB</color>
+    <color name="on_primary">#33255C</color>
+    <color name="primary_container">#4A3A80</color>
+    <color name="on_primary_container">#E8DEFF</color>
+
+    <color name="secondary">#B6CBC2</color>
+    <color name="on_secondary">#17332C</color>
+    <color name="secondary_container">#2A4A43</color>
+    <color name="on_secondary_container">#D5EBE3</color>
+
+    <color name="tertiary">#E5BDC8</color>
+    <color name="accent">#E6C36A</color>
+    <color name="pink">#E0A6BB</color>
+    <color name="success">#86D9A5</color>
+    <color name="danger">#F2B8B5</color>
+
+    <color name="option_bg">#1D1D23</color>
+    <color name="option_border">#3A3A43</color>
+    <color name="nav_bar">#141418</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

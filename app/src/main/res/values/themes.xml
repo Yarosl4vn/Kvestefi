@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Kvest" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorPrimaryContainer">@color/primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/on_primary_container</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+        <item name="colorSecondaryContainer">@color/secondary_container</item>
+        <item name="colorOnSecondaryContainer">@color/on_secondary_container</item>
+        <item name="colorTertiary">@color/tertiary</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/on_bg</item>
+        <item name="colorSurfaceVariant">@color/surface_container</item>
+        <item name="colorOnSurfaceVariant">@color/on_bg_variant</item>
+        <item name="colorSurfaceContainer">@color/surface_container</item>
+        <item name="colorOutline">@color/outline</item>
+        <item name="colorOutlineVariant">@color/outline_variant</item>
+        <item name="colorError">@color/danger</item>
+        <item name="android:colorBackground">@color/bg</item>
+        <item name="colorOnBackground">@color/on_bg</item>
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:navigationBarColor">@color/nav_bar</item>
+        <item name="android:textColorPrimary">@color/on_bg</item>
+        <item name="android:textColorSecondary">@color/on_bg_variant</item>
+        <item name="android:textColorHint">@color/on_bg_variant</item>
+    </style>
+
+    <style name="ThemeKvestLaunch" parent="Theme.Kvest">
+        <item name="android:windowBackground">@drawable/bg_splash</item>
+    </style>
+
+    <!-- Палитры на выбор: меняют только акцентные цвета, всё остальное наследуется -->
+    <style name="ThemeKvestEmerald" parent="Theme.Kvest">
+        <item name="colorPrimary">@color/pal_emerald_primary</item>
+        <item name="colorOnPrimary">@color/pal_emerald_on_primary</item>
+        <item name="colorPrimaryContainer">@color/pal_emerald_container</item>
+        <item name="colorOnPrimaryContainer">@color/pal_emerald_on_container</item>
+        <item name="colorSecondaryContainer">@color/pal_emerald_secondary</item>
+        <item name="colorOnSecondaryContainer">@color/pal_emerald_on_secondary</item>
+    </style>
+
+    <style name="ThemeKvestOcean" parent="Theme.Kvest">
+        <item name="colorPrimary">@color/pal_ocean_primary</item>
+        <item name="colorOnPrimary">@color/pal_ocean_on_primary</item>
+        <item name="colorPrimaryContainer">@color/pal_ocean_container</item>
+        <item name="colorOnPrimaryContainer">@color/pal_ocean_on_container</item>
+        <item name="colorSecondaryContainer">@color/pal_ocean_secondary</item>
+        <item name="colorOnSecondaryContainer">@color/pal_ocean_on_secondary</item>
+    </style>
+
+    <style name="ThemeKvestAmber" parent="Theme.Kvest">
+        <item name="colorPrimary">@color/pal_amber_primary</item>
+        <item name="colorOnPrimary">@color/pal_amber_on_primary</item>
+        <item name="colorPrimaryContainer">@color/pal_amber_container</item>
+        <item name="colorOnPrimaryContainer">@color/pal_amber_on_container</item>
+        <item name="colorSecondaryContainer">@color/pal_amber_secondary</item>
+        <item name="colorOnSecondaryContainer">@color/pal_amber_on_secondary</item>
+    </style>
+
+    <style name="ThemeKvestRose" parent="Theme.Kvest">
+        <item name="colorPrimary">@color/pal_rose_primary</item>
+        <item name="colorOnPrimary">@color/pal_rose_on_primary</item>
+        <item name="colorPrimaryContainer">@color/pal_rose_container</item>
+        <item name="colorOnPrimaryContainer">@color/pal_rose_on_container</item>
+        <item name="colorSecondaryContainer">@color/pal_rose_secondary</item>
+        <item name="colorOnSecondaryContainer">@color/pal_rose_on_secondary</item>
+    </style>
+
+    <!-- Типографика: спокойные веса и размеры -->
+    <style name="TextDisplay">
+        <item name="android:textColor">@color/on_bg</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="TextTitle">
+        <item name="android:textColor">@color/on_bg</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="TextSection">
+        <item name="android:textColor">@color/on_bg_variant</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.08</item>
+    </style>
+
+    <style name="TextBody">
+        <item name="android:textColor">@color/on_bg</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+    </style>
+
+    <style name="TextMuted">
+        <item name="android:textColor">@color/on_bg_variant</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="TextNumber">
+        <item name="android:textColor">@color/on_bg</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <!-- Кнопки: стандартные формы Material 3 -->
+    <style name="BtnPrimary" parent="Widget.Material3.Button">
+        <item name="android:textSize">15sp</item>
+        <item name="android:minHeight">50dp</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/on_primary</item>
+    </style>
+
+    <style name="BtnTonal" parent="Widget.Material3.Button.TonalButton">
+        <item name="android:textSize">15sp</item>
+        <item name="android:minHeight">50dp</item>
+        <item name="backgroundTint">@color/secondary_container</item>
+        <item name="android:textColor">@color/on_secondary_container</item>
+    </style>
+
+    <style name="BtnGhost" parent="Widget.Material3.Button.TextButton">
+        <item name="android:textSize">15sp</item>
+        <item name="android:minHeight">50dp</item>
+        <item name="android:textColor">@color/on_bg_variant</item>
+    </style>
+
+    <!-- Карточки: плоские, без обводок и теней -->
+    <style name="CardKvest" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">0dp</item>
+        <item name="cardBackgroundColor">@color/surface_container</item>
+        <item name="strokeWidth">0dp</item>
+        <item name="rippleColor">@color/outline_variant</item>
+    </style>
+
+</resources>

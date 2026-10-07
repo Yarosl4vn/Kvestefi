@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_pad">18dp</dimen>
+    <dimen name="gap">12dp</dimen>
+    <dimen name="gap_l">18dp</dimen>
+    <dimen name="card_radius">22dp</dimen>
+    <dimen name="chip_radius">50dp</dimen>
+    <dimen name="title_size">26sp</dimen>
+    <dimen name="h2_size">20sp</dimen>
+    <dimen name="body_size">15sp</dimen>
+    <dimen name="small_size">13sp</dimen>
+</resources>
