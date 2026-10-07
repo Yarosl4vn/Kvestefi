@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- молния — символ скорости -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M61,24 L34,63 H51.5 L43,86 L75,43 H56 Z" />
+    <!-- звезда — очки и достижения -->
+    <path
+        android:fillColor="#FFFFD27D"
+        android:pathData="M80,22 L83.2,31 L92,34.2 L83.2,37.4 L80,46.4 L76.8,37.4 L68,34.2 L76.8,31 Z" />
+</vector>
